@@ -1,0 +1,10 @@
+C:\Users\brijesh.pal\source\repos2\CMFSWEB\CMFSWEB\bin\STDRGSFRM.dll
+C:\Users\brijesh.pal\source\repos2\CMFSWEB\CMFSWEB\bin\STDRGSFRM.pdb
+C:\Users\brijesh.pal\source\repos2\CMFSWEB\CMFSWEB\bin\STDRGSFRM.xml
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.vbproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.Resources.resources
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.vbproj.GenerateResource.cache
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.vbproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.dll
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.xml
+C:\Users\brijesh.pal\source\repos2\STDRGSFRM\STDRGSFRM\obj\Debug\STDRGSFRM.pdb
